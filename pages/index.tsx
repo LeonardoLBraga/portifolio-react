@@ -1,7 +1,7 @@
-import React from 'react';
+import React from "react";
 
-const Home: React.FC = () => {
-    return (
+export default function Home() {
+  return (
         <div>
             <h1>Welcome to My Portfolio</h1>
             <section>
@@ -21,6 +21,4 @@ const Home: React.FC = () => {
             </section>
         </div>
     );
-};
-
-export default Home;
+}
