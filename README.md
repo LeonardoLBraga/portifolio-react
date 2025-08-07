@@ -5,7 +5,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-4-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-🎨 Um portfólio pessoal feito com [Next.js](https://nextjs.org/), [React](https://react.dev/) e [TypeScript](https://www.typescriptlang.org/).
+🎨 Um portfólio pessoal feito com [Next.js](https://nextjs.org/), [React](https://react.dev/), TailWind e [TypeScript](https://www.typescriptlang.org/).
 
 
 ---
